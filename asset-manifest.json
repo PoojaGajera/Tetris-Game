@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tetris-Game/static/css/main.849d8f14.css",
+    "main.js": "/Tetris-Game/static/js/main.d405f982.js",
+    "index.html": "/Tetris-Game/index.html",
+    "main.849d8f14.css.map": "/Tetris-Game/static/css/main.849d8f14.css.map",
+    "main.d405f982.js.map": "/Tetris-Game/static/js/main.d405f982.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849d8f14.css",
+    "static/js/main.d405f982.js"
+  ]
+}
